@@ -1,4 +1,4 @@
-# Hi there  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="150" height="80" />7
+# Hi there  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="150" height="80" />
 I´m an economist interested in econometrics, data science, and reserach aplicated with R, Latex and Stata.
 # About me
 
