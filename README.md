@@ -1,5 +1,5 @@
 # Hi there  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="150" height="80" />
-I´m an economist interested in econometrics, data science, and research aplicated with R, Latex and Stata.
+I´m an economist interested in econometrics, data science, and research applicated with R, Latex and Stata.
 # About me
 
 - 🔭 I’m currently working on **Laboratorios Lansier** as **Commercial Analyst Jr.** 
