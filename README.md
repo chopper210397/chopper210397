@@ -3,8 +3,8 @@ I´m an economist interested in econometrics, data science, and research applica
 # About me
 
 - 🔭 I’m currently working on **Aflore** as **Data analyst.** 
-- 🌱 I’m currently learning more and more about **R and Econometrics**.
-- 👯 I’m looking to collaborate on **Data science** or **Research projects**.
+- 🌱 I’m currently learning more and more about **R, SQL, Python and Tableau**.
+- 👯 I’m looking to collaborate on **Data analysis/science** or **Research projects**.
 - 📫 How to reach me: **luisbarrios2197@gmail.com**
 
 ## Most used languages and tools:
