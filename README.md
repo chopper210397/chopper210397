@@ -1,5 +1,5 @@
 # Hi there  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="150" height="80" />
-I´m an economist interested in econometrics, data science, and research applicated with R,Python, Tableau and SQL.
+I´m an economist interested in econometrics, data science, and research applicated with R, Python, Tableau and SQL.
 # About me
 
 - 🔭 I’m currently working on **Aflore** as **Data analyst.** 
