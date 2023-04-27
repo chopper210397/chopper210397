@@ -1,4 +1,4 @@
-# Hi there  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="300" height="160" />
+# Hi there  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="600" height="320" />
 I´m an economist interested in econometrics, data science, data analytics and research applicated with R, Python, Tableau and SQL.
 # About me
 
