@@ -1,9 +1,9 @@
 # Hi there  <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="600" height="320" />
-I´m an economist interested in econometrics, data science, data analytics and research applicated with R, Python, Tableau and SQL.
+I´m an economist interested in econometrics, data science, data analytics and research applicated with R, Python, Power BI and SQL.
 # About me
 
-- 🔭 I’m currently working on **Aflore** as **Data analyst.** 
-- 🌱 I’m currently learning more and more about **R, SQL, Python and Tableau**.
+- 🔭 I’m currently working on **BCP** as **SUB GERENTE ADJUNTO DE ANALYTICS DE CUMPLIMIENTO.** 
+- 🌱 I’m currently learning more and more about **R, SQL, Python and Power BI**.
 - 👯 I’m looking to collaborate on **Data analysis/science** or **Research projects**.
 - 📫 How to reach me: **luisbarrios2197@gmail.com**
 
